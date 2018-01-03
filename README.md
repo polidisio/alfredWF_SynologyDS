@@ -1,4 +1,4 @@
-# alfredWF_SynologyDS
+# ALFRED WORKFLOW SYNOLOGY DOWNLOAD STATION
 Alfred Workflow for Synology Download Station
 
 - Copy a link to mac clipbord.
