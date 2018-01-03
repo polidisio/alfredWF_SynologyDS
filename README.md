@@ -1,5 +1,5 @@
 # alfredWF_SynologyDS
-Alfred Workflow 
+Alfred Workflow for Synology Download Station
 
 - Copy a link to mac clipbord.
 - Call Alfred WF for Download to DS (Download)
